@@ -1,7 +1,7 @@
 <%-- 
     Document   : login
     Created on : 13/07/2020, 09:23:21 AM
-    Author     : MONARCA
+    Author     : Jhon Villacriz
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        Ingrese Usuario y Clave
+        
+        <a href="menu.jsp">Ingresar</a>
     </body>
 </html>
