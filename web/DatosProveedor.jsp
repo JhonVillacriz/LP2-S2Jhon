@@ -1,6 +1,6 @@
 <%-- 
-    Document   : datosProdcutos
-    Created on : 13/07/2020, 09:24:09 AM
+    Document   : DatosProveedor
+    Created on : 13/07/2020, 09:58:14 AM
     Author     : MONARCA
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        Datos Productos
+        Datos Proveedor
     </body>
 </html>
